@@ -11,4 +11,5 @@ public class Test02 {
         System.out.println("10"+ 10 + 10);
         System.out.println(10+ 10 + "10");
     }
+
 }
