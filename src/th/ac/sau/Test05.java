@@ -18,7 +18,5 @@ public class Test05 {
 
         System.out.print("ผลคะแนนคือ: " + result);
 
-
-
     }
 }
